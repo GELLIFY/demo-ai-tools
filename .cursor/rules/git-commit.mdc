@@ -1,0 +1,32 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Now, please generate a commit message in English.
+Make sure it includes an accurate and informative subject line that succinctly summarizes the key points of the changes, the response must only have commit message content and must have blank line in message template.
+
+Commit Message Format
+
+```
+<type>[optional scope]: brief description
+```
+
+Types
+- `feat`: New feature
+- `fix`: Bug fix
+- `docs`: Documentation
+- `style`: Formatting
+- `refactor`: Code restructuring
+- `test`: Test changes
+- `chore`: Maintenance
+
+Scopes
+- `api`: API changes
+- `ui`: UI changes
+- `db`: Database
+- `auth`: Authentication
+- `rules`: Cursor rules
+- `docs`: Documentation
+- `test`: Testing
+- `core`: Core functionality

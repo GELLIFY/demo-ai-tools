@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Rule Name: nextjs-guidelines
+Description:
+Follow Next.js best practices for data fetching, rendering, and routing.
+
+Guidelines:
+- Follow Next.js App Router conventions
+- Use React Server Components where possible
+- Implement efficient data fetching patterns
+- Follow Next.js routing best practices 

@@ -1,0 +1,27 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+Description:
+Follow these TypeScript code style guidelines for all code generation.
+
+Code Style:
+- Write concise, technical TypeScript code
+- Use functional and declarative programming patterns
+- Avoid classes entirely
+- Prefer iteration and modularization over code duplication
+- Use descriptive variable names with auxiliary verbs (isLoading, hasError)
+- Structure files: exported component, subcomponents, helpers, static content, types
+
+TypeScript Usage:
+- Use TypeScript for all code
+- Prefer interfaces over types
+- Avoid enums; use maps instead
+- Use functional components with TypeScript interfaces
+
+Syntax:
+- Use the "function" keyword for pure functions
+- Avoid unnecessary curly braces in conditionals; use concise syntax
+- Use declarative JSX 
